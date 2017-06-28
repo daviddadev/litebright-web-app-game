@@ -96,6 +96,23 @@ body {
   font-size: 2.75vw;
 }
 
+.reset-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  color: white;
+  height: 6vw;
+  width: 20vw;
+  border-radius: 0;
+  opacity: 0.7;
+  background-color: black;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  border: 0.5vw hidden white !important;
+  font-size: 2.75vw;
+}
+
 .opacity {
   opacity: 1 !important;
 }
